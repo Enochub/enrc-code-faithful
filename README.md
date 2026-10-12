@@ -16,3 +16,13 @@ https://gitlab.cs.univie.ac.at/lukas/enrcpublic
 
 Upstream commit:
 6de4f30d38f82a609e7b58c0b62b822750870111
+
+## Related thesis repository
+
+This compatibility port was used to reproduce the Standard ENRC
+reference baseline for the following thesis project:
+
+https://github.com/Enochub/drdvi-enrc
+
+The DR-DVI integration code is maintained separately and is not part
+of this repository.
