@@ -1,0 +1,10 @@
+# Tested compatibility environment: Python 3.11.9
+torch>=2.0
+torchvision
+fastai==1.0.61
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
+pandas
+Pillow
+matplotlib
